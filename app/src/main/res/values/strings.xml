@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApplicationBalok Marta</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+
+</resources>
